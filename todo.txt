@@ -1,0 +1,9 @@
+autenticação 
+    login
+    criar conta
+tarefas
+    criar tarefa
+    atualizar status
+    remover tarefa
+    listar tarefas
+    buscar tarefa
